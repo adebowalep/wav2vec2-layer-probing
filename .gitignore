@@ -13,7 +13,6 @@ env/
 .venv/
 
 # OS files
-.DS_Store
 Thumbs.db
 
 # Colab / local temporary files
@@ -30,3 +29,8 @@ outputs/
 checkpoints/
 models/
 
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
