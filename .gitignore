@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab / local temporary files
+*.log
+*.tmp
+
+# Model/data/cache outputs
+*.npy
+*.npz
+*.pkl
+*.joblib
+.cache/
+outputs/
+checkpoints/
+models/
+
